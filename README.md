@@ -1,2 +1,2 @@
 # 1st-Assignment
-This is testing about python.
+This is about all basic python concepts. Including OOP concepts.
